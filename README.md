@@ -1,1 +1,1 @@
-user login system with full code and complte project of gui and cli
+user login system with full code and complte project of gui and cli applications
